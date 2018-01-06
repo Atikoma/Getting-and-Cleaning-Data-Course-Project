@@ -1,5 +1,6 @@
+## Load reshap2 first because we have to use dcast function
 library(reshape2)
-
+## declare file name variable
 filename <- "getdata_dataset.zip"
 
 
